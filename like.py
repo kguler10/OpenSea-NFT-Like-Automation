@@ -7,7 +7,7 @@ import pyautogui
 from sympy import false, true
 # from Common_Methods.GenericMethods import *
 
-url = "https://opensea.io/assets/0xa1de9f93c56c290c48849b1393b09eb616d55dbb/5396"
+url = "https://opensea.io/assets/0xc92090f070bf50eec26d849c88a68112f4f3d98e/2073"
 
 # bir defa sign yapınca 24 saat içinde tekrar sign yapmaya gerek yok.
 # bununn için sign kısmının devreye sokup sokmamaya bunun ile karar veriyoruz
